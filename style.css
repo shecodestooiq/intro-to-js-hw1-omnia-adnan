@@ -1,0 +1,11 @@
+body{
+    border: 3px double rgb(25, 25, 112);
+    margin: 150px 500px;
+    padding: 5px 40px;
+}
+td{
+    text-align: center;
+}
+th,tr{
+    border-bottom: 2px solid rgb(25, 25, 112);
+}
